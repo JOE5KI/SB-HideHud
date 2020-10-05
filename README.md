@@ -7,6 +7,9 @@ Add 'ensure SB-HideHud' into your server.cfg
 It Work :)
 
 
-# Any Issues Or Help 
 
-https://discord.gg/jC9YgyK
+# Personal Discord
+
+Talk about coding, updates on new and streams, first look on new stuff.
+
+https://discord.gg/gDzfnm8
